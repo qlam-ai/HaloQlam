@@ -37,7 +37,7 @@ class RingSessionManager: NSObject {
         
         return ASPickerDisplayItem(
             name: "COLMI R02 Ring",
-            productImage: UIImage(named: "colmi")!,
+            productImage: UIImage(named: "Colmi")!,
             descriptor: descriptor
         )
     }()

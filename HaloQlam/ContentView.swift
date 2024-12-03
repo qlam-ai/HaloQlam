@@ -10,7 +10,7 @@ import AccessorySetupKit
 
 struct ContentView: View {
     @State var ringSessionManager = RingSessionManager()
-    
+     
     var body: some View {
         List {
             Section("MY DEVICE", content: {
